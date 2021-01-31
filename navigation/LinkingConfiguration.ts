@@ -16,6 +16,26 @@ export default {
               TabTwoScreen: 'two',
             },
           },
+          Home:{
+            screens:{
+              HomeScreen: 'Home',
+            },
+          },
+          Logistics:{
+            screens:{
+              LogisticsScreen: 'Logistics',
+            },
+          },
+          Reminder:{
+            screens:{
+              ReminderScreen: 'Reminder',
+            },
+          },
+          CheckIn:{
+            screens:{
+              CheckInScreen: 'Check In',
+            },
+          },
         },
       },
       NotFound: '*',

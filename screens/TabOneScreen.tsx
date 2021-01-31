@@ -7,7 +7,10 @@ import { Text, View } from '../components/Themed';
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
+      <Text style={styles.title}>MOM AI</Text>
+      <Text>A wellness app desgined to make sure you're doing as well as mom hoped you would. 
+        Hello Fuzzy
+      </Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <EditScreenInfo path="/screens/TabOneScreen.tsx" />
     </View>
