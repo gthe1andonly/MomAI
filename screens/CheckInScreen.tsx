@@ -33,7 +33,7 @@ export default function CheckInScreen() {
         </View>
 
       </View>
-      <EditScreenInfo path="/screens/CheckInScreen.tsx" />
+      <EditScreenInfo path="/screens/CheckInScreen.tsx"/>
     </View>
   );
 }
